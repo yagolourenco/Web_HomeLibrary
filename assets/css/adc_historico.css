@@ -1,0 +1,65 @@
+body{
+	height: 100vh;
+	font-family: 'Arial';
+	background-image: linear-gradient(to bottom,#8A2BE2,#9400D3);
+}
+
+.primeiro_h1{
+	width: 400px;
+	height: 100px;
+	background: #FFF;
+	border:0;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+	font-family: Arial;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 40%;
+	margin-top: 7%;
+	color: black;
+}
+
+
+
+.box_adicionar{
+	width: 500px;
+	height: 550px;
+	background: #FFF;
+	border:0;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+	margin-left: 37%;
+	margin-top: 20px;
+	justify-content: center;
+
+}
+
+
+form input{	
+	margin-left: 8%;
+	width: calc(100% - 110px);
+	padding: 15px 15px;
+	border: 0px;
+	border-radius: 10px;
+	margin-bottom: 30px;
+	text-align: center;
+	justify-content: center;
+	background-color: #DCDCDC;
+}
+
+form .btn{
+	margin: 80px 20px;
+	width: calc(100% - 40px);
+	background: #3CEB88;
+	color:#FFF;
+		border: 0px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+		padding: 15px 15px;
+
+}
+
+.input_um{
+	margin-top: 60px;
+}
